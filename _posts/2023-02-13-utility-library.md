@@ -20,8 +20,8 @@ Note that some of the functions are dependent on others, as such some *_utils.py
 
 The following modules are included in this repository:
 
-- [`ip_utils`](https://github.com/velajua/utility_library/ip_utils): A module for working with IP addresses
-- [`redis_utils`](redis_utils/README.md): A module for working with the Redis database
-- [`selenium_utils`](selenium_utils/README.md): A module for automating web browsers with Selenium
-- [`slack_utils`](slack_utils/README.md): A module for sending messages to Slack
-- [`utils`](utils/README.md): A general-purpose module with various helper functions and decorators
+- [`ip_utils`](https://github.com/velajua/utility_library/tree/main/ip_utils): A module for working with IP addresses
+- [`redis_utils`](https://github.com/velajua/utility_library/tree/main/redis_utils): A module for working with the Redis database
+- [`selenium_utils`](https://github.com/velajua/utility_library/tree/main/selenium_utils): A module for automating web browsers with Selenium
+- [`slack_utils`](https://github.com/velajua/utility_library/tree/main/slack_utils): A module for sending messages to Slack
+- [`utils`](https://github.com/velajua/utility_library/tree/main/utils): A general-purpose module with various helper functions and decorators
