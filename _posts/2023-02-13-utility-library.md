@@ -4,7 +4,7 @@ title: Utility Library
 subtitle: Various decorators and functions for python
 gh-repo: velajua/utility_library
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [decorators, python, selenium, redis, slack, api, ip, functions]
 comments: true
 ---
 
