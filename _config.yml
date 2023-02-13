@@ -21,8 +21,9 @@ author: Velajua
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Download CV: "https://us-central1-cedar-setup-376217.cloudfunctions.net/display_cv"
+  Download CV: "https://us-central1-cedar-setup-376217.cloudfunctions.net/display_cv"
+#   Resources:
+#     - Download CV: "https://us-central1-cedar-setup-376217.cloudfunctions.net/display_cv"
 #   - Learn markdown: "https://www.markdowntutorial.com/"
 # Author's home: "https://deanattali.com"
 
