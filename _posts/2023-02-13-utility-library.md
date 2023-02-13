@@ -8,71 +8,20 @@ tags: [decorators, python, selenium, redis, slack, api, ip, functions]
 comments: true
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+This repository contains a collection of useful functions in Python, including web scraping, API integrations and day-to-day code snippets.
 
-**Here is some bold text**
+These functions can be easily integrated into your projects to save time and effort. The repository is organized into various sections, each containing a description of the functions included, as well as the requirements for running each of the functions.
 
-## Here is a secondary heading
+The requirements can be installed using `pip install -r requirements.txt` 
 
-Here's a useless table:
+Note that some of the functions are dependent on others, as such some *_utils.py* need to be in the same folder to properly work.
 
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+## Modules
 
+The following modules are included in this repository:
 
-How about a yummy crepe?
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
-
-It can also be centered!
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
-
-Here's a code chunk:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
+- [`ip_utils`](https://github.com/velajua/utility_library/ip_utils): A module for working with IP addresses
+- [`redis_utils`](redis_utils/README.md): A module for working with the Redis database
+- [`selenium_utils`](selenium_utils/README.md): A module for automating web browsers with Selenium
+- [`slack_utils`](slack_utils/README.md): A module for sending messages to Slack
+- [`utils`](utils/README.md): A general-purpose module with various helper functions and decorators
