@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
+title: Utility Library
+subtitle: Various decorators and functions for python
+gh-repo: velajua/utility_library
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
