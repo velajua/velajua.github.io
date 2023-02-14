@@ -18,7 +18,8 @@ Note that some of the functions are dependent on others, as such some *_utils.py
 
 ## Modules
 
-The following modules are included in this repository:
+The following modules are links to the corresponding github repositories:
+*Additional information can be found in each of the links regarding their specific functions and dependencies*
 
 - [`ip_utils`](https://github.com/velajua/utility_library/tree/main/ip_utils): A module for working with IP addresses
 - [`redis_utils`](https://github.com/velajua/utility_library/tree/main/redis_utils): A module for working with the Redis database
