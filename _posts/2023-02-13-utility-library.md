@@ -23,7 +23,7 @@ Note that some of the functions are dependent on others, as such some *_utils.py
 The following modules are links to the corresponding github repositories:
 *Additional information can be found in each of the links regarding their specific functions and dependencies*
 
-- [`ip_utils`](ip_utils/README.md): A module for working with IP addresses
+- [`ip_utils`](https://github.com/velajua/utility_library/tree/main/ip_utils): A module for working with IP addresses
 
 An IP address, or Internet Protocol address, is a unique numerical identifier assigned to every device connected to the internet. It allows devices to communicate with each other over the internet by sending and receiving data packets.
 
@@ -33,7 +33,7 @@ IP addresses are used by internet protocols to route data packets from one devic
 
 In addition to identifying devices on the internet, IP addresses can also be used to determine the location of a device. Geolocation services can use IP address information to determine the approximate location of a device, which can be useful for a variety of purposes, such as targeted advertising or content delivery. However, it's important to note that IP address-based geolocation is not always accurate, and can be affected by a variety of factors, such as the use of VPNs or proxies.
 
-- [`redis_utils`](redis_utils/README.md): A module for working with the Redis database
+- [`redis_utils`](https://github.com/velajua/utility_library/tree/main/redis_utils): A module for working with the Redis database
 
 Redis is an open-source, in-memory data structure store that can be used as a database, cache, and message broker. It supports various data structures such as strings, hashes, sets, lists, and sorted sets, and provides a rich set of commands to operate on these data structures.
 
@@ -50,7 +50,7 @@ Redis can be accessed through a number of client libraries in various programmin
 
 Overall, Redis is a versatile and powerful tool for managing and storing data, and can be used in a wide range of applications, including web applications, mobile apps, and Internet of Things (IoT) devices.
 
-- [`selenium_utils`](selenium_utils/README.md): A module for automating web browsers with Selenium
+- [`selenium_utils`](https://github.com/velajua/utility_library/tree/main/selenium_utils): A module for automating web browsers with Selenium
 
 Selenium is a popular open-source framework for automating web browsers. It provides a set of tools and APIs to automate web browsers and perform various tasks, such as testing web applications, web scraping, and web automation.
 
@@ -62,7 +62,7 @@ Selenium can be used to perform web scraping, where it can extract data from web
 
 Overall, Selenium is a powerful tool for web automation and testing, and is widely used in the software development industry. It provides a flexible and reliable way to automate repetitive tasks and test the functionality of web applications.
 
-- [`slack_utils`](slack_utils/README.md): A module for sending messages to Slack
+- [`slack_utils`](https://github.com/velajua/utility_library/tree/main/slack_utils): A module for sending messages to Slack
 
 Slack is a cloud-based team collaboration platform that is widely used in businesses and organizations of all sizes. It provides a range of features to facilitate communication and collaboration among team members, including real-time messaging, voice and video calls, file sharing, and integrations with other tools and services.
 
@@ -76,7 +76,7 @@ Slack can be accessed through a web interface or through its desktop and mobile 
 
 Overall, Slack is a powerful tool for team collaboration and communication, and is widely used by businesses and organizations of all sizes to improve productivity, efficiency, and collaboration among team members.
 
-- [`utils`](utils/README.md): A general-purpose module with various helper functions and decorators
+- [`utils`](https://github.com/velajua/utility_library/tree/main/utils): A general-purpose module with various helper functions and decorators
 
 In Python, a decorator is a special type of function that can modify or enhance the behavior of another function or class without changing its source code. A decorator is a higher-order function that takes another function as input and returns a new function that adds some additional behavior to the original function. Decorators are a key feature of Python and are commonly used in many frameworks and libraries.
 
