@@ -4,9 +4,9 @@ title: Pytest Maker
 subtitle: A starting point to interact with pytest 
 gh-repo: velajua/pytest_maker
 gh-badge: [star, fork, follow]
-cover-img: /assets/img/path.jpg
+cover-img: /assets/img/python-banner_.jpg
 thumbnail-img: /assets/img/pytest.svg
-share-img: /assets/img/path.jpg
+share-img: /assets/img/python-banner_.jpg
 tags: [pytest, python, functions]
 comments: true
 ---
