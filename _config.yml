@@ -22,7 +22,7 @@ author: Velajua
 navbar-links:
   About Me: "aboutme"
   Download CV: "https://us-central1-cedar-setup-376217.cloudfunctions.net/display_cv"
-  Certifications: "https://www.linkedin.com/in/eljuanvm/details/certifications/"
+  Certifications: "https://www.linkedin.com/in/eljuanvm/details/certifications"
 #   Resources:
 #     - Download CV: "https://us-central1-cedar-setup-376217.cloudfunctions.net/display_cv"
 #   - Learn markdown: "https://www.markdowntutorial.com/"
