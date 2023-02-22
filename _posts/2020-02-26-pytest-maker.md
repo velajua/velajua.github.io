@@ -11,7 +11,6 @@ tags: [pytest, python, functions]
 comments: true
 ---
 
-# Automated Test Generation with YAML and Python
 This [`repository`](https://github.com/velajua/pytest_maker) provides a script for generating a starting point for automated tests using a YAML input file and Python code. The script generates pytest test functions for each test case specified in the YAML file. Cases for skipping and failing tests can be specified.
 
 ### Installation
