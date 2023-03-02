@@ -53,7 +53,7 @@ Its solution along with the cost fo the solution from coordinates (0, 0) to coor
 
 ## Supported Algorithms
 
-The maze_solver currently supports the following maze solving algorithms (Which can be found in [`here`](path_finding.py):
+The maze_solver currently supports the following maze solving algorithms (Which can be found in [`here`](https://github.com/velajua/maze_solver/tree/main/path_finding.py):
 
 * Dijkstra's Algorithm
 * A* Algorithm
