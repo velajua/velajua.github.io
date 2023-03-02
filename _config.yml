@@ -21,6 +21,7 @@ author: Velajua
 
 navbar-links:
   About Me: "aboutme"
+  Github: "https://github.com/velajua"
   Download CV: "https://us-central1-cedar-setup-376217.cloudfunctions.net/display_cv"
   Certifications (LinkedIn): "https://www.linkedin.com/in/eljuanvm/details/certifications"
 #   Resources:
