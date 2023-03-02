@@ -1,4 +1,14 @@
-# Maze Solver FastAPI
+---
+layout: post
+title: Maze Solver
+subtitle: A FastAPI to create and solve mazes
+gh-repo: velajua/maze_solver
+gh-badge: [star, fork, follow]
+thumbnail-img: /assets/img/python.png
+cover-img: /assets/img/python-banner_.jpg
+tags: [algorithms, python, FastAPI, html, api, functions, PIL, path-finding]
+comments: true
+---
 
 This FastAPI app creates and solves mazes using various algorithms while allowing for strict pathing and weighted cells.
 
