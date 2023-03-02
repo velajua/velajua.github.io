@@ -12,7 +12,7 @@ comments: true
 
 This FastAPI app creates and solves mazes using various algorithms while allowing for strict pathing and weighted cells.
 
-This [`repository`](https://github.com/velajua/maze_solver) contains the necessary files to daploy a containerized app which is able to create mazes using a modified version of the Breadth-First-Search algorithm, as well as solutions to the geenrated using various path-finding algorithms.
+This [`repository`](https://github.com/velajua/maze_solver) contains the necessary files to daploy a containerized app which is able to create mazes using a modified version of the Breadth-First-Search algorithm, as well as solutions to the generated mazes using various path-finding algorithms.
 
 ## Requirements
 
