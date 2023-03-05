@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Maze Solver
+title: Path Algorithms
 subtitle: A FastAPI to create and solve mazes
 gh-repo: velajua/maze_solver
 gh-badge: [star, fork, follow]
