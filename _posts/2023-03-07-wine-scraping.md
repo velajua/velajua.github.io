@@ -16,7 +16,7 @@ This project aims to scrape wine data from the [Decanter website](https://www.de
 The scraping is done using Selenium, and the data is stored in a CSV file,
 which can then be used for data analysis and visualization (using streamlit in this case). 
 
-This [`repository`](https://github.com/velajua/wine_scraping) contains the necessary files to daploy a containerized app using Docker which is able to create
+This [`repository`](https://github.com/velajua/wine_scraping) contains the necessary files to deploy a containerized app using Docker which is able to create
 a Streamlit server, using the data scraped.
 
 ### Requirements
