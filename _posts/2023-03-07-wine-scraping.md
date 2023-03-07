@@ -20,6 +20,7 @@ This [`repository`](https://github.com/velajua/wine_scraping) contains the neces
 a Streamlit server, using the data scraped.
 
 ### Requirements
+
 Install the required packages using:
 
 ```python
@@ -27,6 +28,7 @@ pip install -r requirements.txt
 ```
 
 ## Scraping (Selenium)
+
 ### Usage
 
 This script is a web scraper that collects information about wines from the Decanter website.
@@ -35,11 +37,11 @@ The script uses a thread pool executor to run the scraping function on multiple 
 It uses the Selenium driver to navigate to the Decanter website for the specified country and page,
 finds all wine elements, and extracts information such as title, grapes, and other details.
 The function returns a list of dictionaries, with each dictionary containing information about a particular wine.
-The raw data can be visualized [here](wine_data_france.csv)
+The raw data can be visualized [here](https://github.com/velajua/wine_scraping/blob/main/wine_data_france.csv)
 
 The scraper's operation through the webpage is as follows:
 
-![scraping_diagram](https://github.com/velajua/wine_scraping/blob/main/img/scraping_diagram.png "scraping_diagram")
+![scraping_diagram](/assets/img/scraping_diagram.png "scraping_diagram")
 
 The following command calls the selenium web-scraper:
 ```python
@@ -50,9 +52,10 @@ Here, <country_name> is the name of the country you want to scrape the data for 
 <number_of_pages> is the number of pages you want to scrape (default: 400), and the -s flag is optional and shows the Chrome drivers.
 Once the data scraping is completed, you will find the data stored in a CSV file named wine_data_<country_name>.csv.
 
-
 ## Visualization (Streamlit)
+
 ### How to run
+
 #### Local
 
 This is a Streamlit app that allows the user to explore wine data for various countries. 
@@ -76,9 +79,9 @@ An application demo can be found [here](https://wine-scraping-4r64swfrtq-uc.a.ru
 
 Here is how the application is viewed:
 
-![empty_app](https://github.com/velajua/wine_scraping/blob/main/img/streamlit_empty.png "empty_app")
+![empty_app](/assets/img/streamlit_empty.png "empty_app")
 
-![france_app](https://github.com/velajua/wine_scraping/blob/main/img/streamlit_france.png "france_app")
+![france_app](/assets/img/streamlit_france.png "france_app")
 
 
 ### Error note:
