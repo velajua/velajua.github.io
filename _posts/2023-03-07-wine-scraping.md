@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wine Data: From Mining to Visualization
+title: Wine Data, From Mining to Visualization
 subtitle: Selenium scraper and streamlit data visualization app
 gh-repo: velajua/wine_scraping
 gh-badge: [star, fork, follow]
