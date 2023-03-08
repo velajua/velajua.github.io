@@ -38,11 +38,11 @@ The script uses a thread pool executor to run the scraping function on multiple 
 It uses the Selenium driver to navigate to the Decanter website for the specified country and page,
 finds all wine elements, and extracts information such as title, grapes, and other details.
 The function returns a list of dictionaries, with each dictionary containing information about a particular wine.
-The raw data can be visualized [here](wine_data_france.csv)
+The raw data can be visualized [here](https://github.com/velajua/wine_scraping/blob/main/wine_data_france.csv)
 
 The scraper's operation through the webpage is as follows:
 
-![scraping_diagram](img/scraping_diagram.png "scraping_diagram")
+![scraping_diagram](/assets/img/scraping_diagram.png "scraping_diagram")
 
 The following command calls the selenium web-scraper:
 ```python
@@ -61,7 +61,7 @@ This code is a web scraper that collects wine data from the Decanter website for
 
 The scraper's operation through the webpage is as follows:
 
-![scraping_diagram_scrapy](img/scraping_diagram_scrapy.png "scraping_diagram_scrapy")
+![scraping_diagram_scrapy](/assets/img/scraping_diagram_scrapy.png "scraping_diagram_scrapy")
 
 The following command calls the scrapy web-scraper:
 ```python
@@ -103,9 +103,9 @@ An application demo can be found [here](https://wine-scraping-4r64swfrtq-uc.a.ru
 
 Here is how the application is viewed:
 
-![empty_app](img/streamlit_empty.png "empty_app")
+![empty_app](/assets/img/streamlit_empty.png "empty_app")
 
-![france_app](img/streamlit_france.png "france_app")
+![france_app](/assets/img/streamlit_france.png "france_app")
 
 ### Adding Data
 
