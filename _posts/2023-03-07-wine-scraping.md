@@ -49,9 +49,9 @@ The following command calls the selenium web-scraper:
 python wine_scraping.py -c <country_name> -s -p <number_of_pages>
 ```
 
-Here, <country_name> is the name of the country you want to scrape the data for (default: 'france'),
-<number_of_pages> is the number of pages you want to scrape (default: 400), and the -s flag is optional and shows the Chrome drivers.
-Once the data scraping is completed, you will find the data stored in a CSV file named wine_data_<country_name>.csv.
+Here, `country_name` is the name of the country you want to scrape the data for (default: 'france'),
+`number_of_pages` is the number of pages you want to scrape (default: 400), and the -s flag is optional and shows the Chrome drivers.
+Once the data scraping is completed, you will find the data stored in a CSV file named wine_data_`country_name`.csv.
 
 ### Scrapy
 
@@ -68,7 +68,7 @@ The following command calls the scrapy web-scraper:
 scrapy_caller.sh <country_name>
 ```
 
-Here, <country_name> is the name of the country you want to scrape the data for (default: 'france'). If a country outside of the YAML data is specified, an error will be shown.
+Here, `country_name` is the name of the country you want to scrape the data for (default: 'france'). If a country outside of the YAML data is specified, an error will be shown.
 
 ## Visualization (Streamlit)
 ### How to run
