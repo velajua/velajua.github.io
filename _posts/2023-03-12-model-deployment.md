@@ -26,7 +26,7 @@ By standardizing the input modification process, the ModelWrapper allows for eas
 
 The Model Deployment proposes serialization using the Dill library, after which the serialized files are uploaded to a GCP bucket.
 
-![gcp bucket](https://github.com/velajua/language_models/blob/main/model_deployment/loaded_models.png)
+![gcp bucket](/assets/img/loaded_models.png)
 
 ## Usage
 
