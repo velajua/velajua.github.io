@@ -6,7 +6,7 @@ gh-repo: velajua/utility_library
 gh-badge: [star, fork, follow]
 thumbnail-img: /assets/img/python.png
 cover-img: /assets/img/python-banner_.jpg
-tags: [decorators, python, selenium, redis, slack, api, ip, functions, regex]
+tags: [Decorators, Python, Selenium, Redis, Slack, Api, Ip, Functions, Regex]
 comments: true
 ---
 
