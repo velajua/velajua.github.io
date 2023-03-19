@@ -6,7 +6,7 @@ gh-repo: velajua/maze_solver
 gh-badge: [star, fork, follow]
 thumbnail-img: /assets/img/maze_example.png
 cover-img: /assets/img/python-banner_.jpg
-tags: [algorithms, python, FastAPI, html, api, functions, PIL, path-finding]
+tags: [Algorithms, Python, FastAPI, Html, Api, Functions, PIL, Path-finding]
 comments: true
 ---
 
