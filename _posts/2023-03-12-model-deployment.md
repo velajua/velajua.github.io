@@ -6,7 +6,7 @@ gh-repo: velajua/language_models
 gh-badge: [star, fork, follow]
 thumbnail-img: /assets/img/model_deploy_homepage.png
 cover-img: /assets/img/python-banner_.jpg
-tags: [Flask, HuggingFace, API, ML, visualization, Inheritance, Docker]
+tags: [Flask, HuggingFace, API, ML, Visualization, Inheritance, Docker]
 comments: true
 ---
 
