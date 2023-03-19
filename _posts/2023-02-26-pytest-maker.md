@@ -7,7 +7,7 @@ gh-badge: [star, fork, follow]
 cover-img: /assets/img/python-banner_.jpg
 thumbnail-img: /assets/img/pytest.svg
 share-img: /assets/img/python-banner_.jpg
-tags: [pytest, python, functions, decorators]
+tags: [Pytest, Python, Functions, Decorators]
 comments: true
 ---
 
