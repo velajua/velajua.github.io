@@ -6,7 +6,7 @@ gh-repo: velajua/text_to_pdf
 gh-badge: [star, fork, follow]
 thumbnail-img: /assets/img/text_to_pdf_logo.png
 cover-img: /assets/img/python-banner_.jpg
-tags: [python, TKinter, Executable, Application, Visualization, PDF, PIL]
+tags: [Python, TKinter, Executable, Application, Visualization, PDF, PIL]
 comments: true
 ---
 
