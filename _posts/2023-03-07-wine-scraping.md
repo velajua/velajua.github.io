@@ -6,7 +6,7 @@ gh-repo: velajua/wine_scraping
 gh-badge: [star, fork, follow]
 thumbnail-img: /assets/img/wine_france.jpg
 cover-img: /assets/img/python-banner_.jpg
-tags: [concurrency, python, selenium, streamlit, visualization, functions, PIL, scraping]
+tags: [Concurrency, Python, Selenium, Scrapy, Streamlit, Visualization, Functions, PIL, Scraping]
 comments: true
 ---
 
