@@ -13,7 +13,9 @@ comments: true
 This [`repository`](https://github.com/velajua/tcp_local_transfer) contains scripts which allow the user to send both text and files from the client (sender) to the server (receiver) via a TCP connection through a local network.
 
 ## Requirements
+
 Python 3.x
+
 tkinter (for GUI)
 
 The requirements can be installed by using `pip install -r requirements.txt`
@@ -39,3 +41,4 @@ The requirements can be installed by using `pip install -r requirements.txt`
 - The server script will display the received file name and the IP address and port number of the client that sent the file.
 - The chat window on the server side will display the IP address and port number of the client that sent the text message, along with the message itself.
 - The client script will display an error message if the connection to the server cannot be established or if the selected file cannot be sent.
+- 
