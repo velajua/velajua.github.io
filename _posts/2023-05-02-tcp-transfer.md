@@ -4,7 +4,7 @@ title: Tcp Local Transfer
 subtitle: A TCP implemetation to send text and files over a local network.
 gh-repo: velajua/tcp_local_transfer
 gh-badge: [star, fork, follow]
-thumbnail-img: /assets/img/python.png
+thumbnail-img: /assets/img/tcp.png
 cover-img: /assets/img/python-banner_.jpg
 tags: [TCP, Python, Socket, Tkinter, Ip, Server, Client]
 comments: true
