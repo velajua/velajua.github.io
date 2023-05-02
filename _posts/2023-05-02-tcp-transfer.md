@@ -27,11 +27,11 @@ The requirements can be installed by using `pip install -r requirements.txt`
 
 ### Sender Example
 
-![sender](https://github.com/velajua/tcp_local_transfer/blob/main/img/sender.png)
+![sender](assets/img/sender.png)
 
 ### Receiver Example
 
-![receiver](https://github.com/velajua/tcp_local_transfer/blob/main/img/receiver.png)
+![receiver](assets/img/receiver.png)
 
 ## Notes
 - The default IP address used by the server is the local host (127.0.0.1).
