@@ -27,11 +27,11 @@ The requirements can be installed by using `pip install -r requirements.txt`
 
 ### Sender Example
 
-![sender](assets/img/sender.png)
+![sender](/assets/img/sender.png)
 
 ### Receiver Example
 
-![receiver](assets/img/receiver.png)
+![receiver](/assets/img/receiver.png)
 
 ## Notes
 - The default IP address used by the server is the local host (127.0.0.1).
