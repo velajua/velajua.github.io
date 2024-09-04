@@ -6,7 +6,7 @@ gh-repo: velajua/tcp_local_transfer
 gh-badge: [star, fork, follow]
 thumbnail-img: /assets/img/tcp.png
 cover-img: /assets/img/python-banner_.jpg
-tags: [TCP, Python, Socket, Tkinter, Ip, Server, Client]
+tags: [TCP, Python, Socket, TKinter, Ip, Server, Client]
 comments: true
 ---
 
@@ -41,4 +41,3 @@ The requirements can be installed by using `pip install -r requirements.txt`
 - The server script will display the received file name and the IP address and port number of the client that sent the file.
 - The chat window on the server side will display the IP address and port number of the client that sent the text message, along with the message itself.
 - The client script will display an error message if the connection to the server cannot be established or if the selected file cannot be sent.
-- 
