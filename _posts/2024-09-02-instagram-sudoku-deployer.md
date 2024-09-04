@@ -24,7 +24,7 @@ The requirements can be installed by using `pip install -r requirements.txt`
 The [`Sudoku Puzzle Daily`](https://www.instagram.com/sudoku_puzzle_daily/) instagram page is as follows:
 ![sudoku instagram page](/assets/img/sudoku-page.png)
 
-It contains sudokus ranging from 2*3/3*2 to 4*5/5*4. They contain normalized difficulties. 
+It contains sudokus ranging from 2x3/3x2 to 4x5/5x4. They contain normalized difficulties. 
 
 ## Usage
 - The repository contains a Dockerfile for deployment (The Cloud Run URL used contains Google Authentication for server protection).
