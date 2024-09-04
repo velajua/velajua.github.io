@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Instagram Sudoku Deployer
-subtitle: A Graph API connection to manage the deployment of Sudokus to the [`Sudoku Puzzle Daily`](https://www.instagram.com/sudoku_puzzle_daily/) instagram page. 
+subtitle: A Graph API connection to manage the deployment of Sudokus to the Sudoku Puzzle Daily instagram page. 
 gh-repo: velajua/instagram-sudoku-deployer
 gh-badge: [star, fork, follow]
 thumbnail-img: /assets/img/sudoku-logo.jpeg
