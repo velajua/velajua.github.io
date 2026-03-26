@@ -4,4 +4,8 @@ title: About me
 subtitle: Data Engineer - My Projects/ Portfolio
 ---
 
-<div align="justify">As a highly skilled and motivated data engineer, I have a strong educational background, with experience in programming and creating ETL/ELT pipelines using GCP, making me well-suited to work in a variety of data-related roles. My background in electronic engineering gives me a unique perspective and understanding of hardware and software systems. Additionally, I am well-equipped to work in diverse environments as I have lived and adapted to different cultures across various countries.</div>
+<div align="justify">Data & Platform Engineer focused on building scalable, real-time data systems and cloud-native infrastructure. 
+ 
+Experienced in designing and operating high throughput pipelines using Kafka, BigQuery, and Kubernetes, with a strong emphasis on performance, reliability, and cost efficiency. Built and maintained streaming and batch architectures (Kafka, Flink, Debezium) powering near real-time applications and analytics. 
+ 
+Strong platform engineering background across repository architecture, build systems, CI/CD pipelines, and infrastructure automation. Owns systems end-to-end from ingestion and transformation to deployment.</div>
